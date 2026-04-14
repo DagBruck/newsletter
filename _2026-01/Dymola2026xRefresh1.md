@@ -1,0 +1,26 @@
+---
+title: Dymola 2026x Refresh 1
+author: "Dag Brück ([Dassault Systèmes](https://www.3ds.com/products/catia/dymola))"
+category: "vendor"
+---
+
+![Dymola 2026x Refresh 1](D2026xR1-small.png)
+
+We are pleased to announce that Dymola 2026x Refresh 1 has been released on Friday, 17 April 2026. Summary of key features:
+
+**Model development**
+- Icons in the variable browser. Makes browsing of the simulation result easier.
+- LEO virtual companion (AI) for model development and analysis, requires integration with 3DEXPERIENCE (Beta).
+
+**Simulation**
+- Integrated calibration of model parameters (new user interface).
+- Parameter sweep with grouping.
+- Dynamic optimization of FMUs using e.g. CasADi (Beta).
+
+**Other**
+- Library improvements.
+- Integrated eFMI production code generation. Code generation on cloud not needed.
+- Upgraded FLEXnet license server with recent security patches.
+
+
+See [latest release](https://www.3ds.com/products/catia/dymola/latest-release) for more details.
